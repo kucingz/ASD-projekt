@@ -1,0 +1,11 @@
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\bin\Debug\netcoreapp2.0\projekt z asd.deps.json
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\bin\Debug\netcoreapp2.0\projekt z asd.runtimeconfig.json
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\bin\Debug\netcoreapp2.0\projekt z asd.runtimeconfig.dev.json
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\bin\Debug\netcoreapp2.0\projekt z asd.dll
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\bin\Debug\netcoreapp2.0\projekt z asd.pdb
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\obj\Debug\netcoreapp2.0\projekt z asd.csprojResolveAssemblyReference.cache
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\obj\Debug\netcoreapp2.0\projekt z asd.csproj.CoreCompileInputs.cache
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\obj\Debug\netcoreapp2.0\projekt z asd.AssemblyInfoInputs.cache
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\obj\Debug\netcoreapp2.0\projekt z asd.AssemblyInfo.cs
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\obj\Debug\netcoreapp2.0\projekt z asd.dll
+C:\Users\Qba\Desktop\projekt asd\projekt z asd\projekt z asd\obj\Debug\netcoreapp2.0\projekt z asd.pdb
